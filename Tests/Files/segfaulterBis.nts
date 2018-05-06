@@ -1,0 +1,9 @@
+.chipsets:
+true	t
+false	f
+output	a
+output	b
+
+.links:
+t:1	a:1
+t:1	b:1

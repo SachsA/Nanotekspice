@@ -1,0 +1,9 @@
+.chipsets:
+input	i
+output	a
+output	b
+
+.links:
+i:1	b:1
+i:1	a:1
+a:1	b:1 # Et bim

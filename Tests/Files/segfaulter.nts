@@ -1,0 +1,8 @@
+.chipsets:
+input	i
+output	a
+output	b
+
+.links:
+i:1	b:1
+a:1	a:1	# Pas bien ça

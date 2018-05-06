@@ -1,0 +1,10 @@
+.chipsets:
+input	i
+output	a
+4081	plop
+output	b
+
+.links:
+i:1	b:1
+i:1	a:1
+plop:7	b:1
